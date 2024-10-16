@@ -1,14 +1,14 @@
-  <h1> Hey     </h1>
+  <h1> Hello there !!   </h1>
  <h2> I’m Vidhi Rawat </h2>
 <img src="https://cdn.rcimg.net/kli4d/234f8333/84e0e96b122171c473f8271f2afec413.gif?width=700" width="370" height="300" align="right"/>
-### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
+ About Me:
           
-- ⚡ Fun fact I think I'm Hacked......
-- - 👨🏽‍💻 Part time Freelancer!
-- ⚡ Fun fact #2 Talk is Cheap Show me the Code
-- 🌱 I’m currently learning DataScience , Python
-- 💞️ I’m looking to collaborate on Web2 & DBMS development
-- 📧 Vidhirawat54@gmail.com 
+🔥 I’m a Data Science enthusiast exploring the fascinating realms of machine learning and data analysis.
+🎯 My goal is to become a Data Scientist or Machine Learning Engineer, crafting innovative solutions that harness the power of data.
+🚀 Currently on a quest to explore the world of Data Science and Machine Learning to unlock their full potential.
+✨ I thrive in leadership roles, orchestrating vibrant college events that celebrate everything from tech to literature.
+🤔 When I'm not coding, you can find me reading books, watching movies that make my heart race, or dreaming about my next adventure.
+📧 Let’s connect !! 
 
  ---
 <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
