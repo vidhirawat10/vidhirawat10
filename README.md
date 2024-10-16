@@ -1,4 +1,4 @@
-  <h1> Hey   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px" align="left">  </h1>
+  <h1> Hey     </h1>
  <h2> I’m Vidhi Rawat </h2>
 <img src="https://cdn.rcimg.net/kli4d/234f8333/84e0e96b122171c473f8271f2afec413.gif?width=700" width="370" height="300" align="right"/>
 ### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
