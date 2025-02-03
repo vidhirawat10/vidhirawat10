@@ -1,6 +1,7 @@
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg"/>
 🔥 I’m a Data Science enthusiast exploring the fascinating realms of machine learning and data analysis.<br>🎯 My goal is to become a Data Scientist or Machine Learning Engineer, crafting innovative solutions that harness the power of data.<br>🚀 Currently on a quest to explore the world of Data Science and Machine Learning to unlock their full potential.<br>✨ I thrive in leadership roles, orchestrating vibrant college events that celebrate everything from tech to literature.<br>🤔 When I'm not coding, you can find me reading books, watching movies that make my heart race, or dreaming about my next adventure.<br>📧 Let’s connect !!<br><br>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=1&position=0&uuid=3ff74d46-eb5e-4f04-8a46-5d9bc9a28ec5&new_detail=true&query=Female+Programmer"/>
+
 
 
 ## 🌐 Socials:
