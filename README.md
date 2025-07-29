@@ -111,6 +111,7 @@
 
 ---
 
+<!-- 
 ## 🧩 Holopin Badges
 
 <div align="center">
@@ -119,7 +120,9 @@
   </a>
 </div>
 
----
+--- 
+-->
+
 
 ## 🌸 Motto
 
