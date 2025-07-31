@@ -73,12 +73,6 @@
 
 ---
 
-### 👁️ **Real Eyes** – *Eye Gaze Detection for Smart Interfaces*
-> Tech: Python, OpenCV  
-> 📍 Real-time eye-tracking UI  
-> 📊 Dashboard to visualize gaze distribution and dwell times
-
----
 
 ## 📈 GitHub Stats
 
