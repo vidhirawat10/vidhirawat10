@@ -72,7 +72,7 @@
 > 📊 Embedded dashboard for article usage heatmaps
 
 ---
-
+<!-- 
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -84,7 +84,7 @@
 </p>
 
 ---
-
+-->
 
 ## 🎖️ Achievements
 
